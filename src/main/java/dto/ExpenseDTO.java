@@ -1,4 +1,4 @@
-package com.Santhosh.expenseiq.dto;
+package com.santhosh.expenseiq.dto;
 
 import jakarta.validation.constraints.*;
 import java.time.LocalDate;
