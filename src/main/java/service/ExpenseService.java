@@ -1,7 +1,7 @@
-package com.Santhosh.expenseiq.service;
+package com.santhosh.expenseiq.service;
 
-import com.Santhosh.expenseiq.model.Expense;
-import com.Santhosh.expenseiq.repository.ExpenseRepository;
+import com.santhosh.expenseiq.model.Expense;
+import com.santhosh.expenseiq.repository.ExpenseRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
