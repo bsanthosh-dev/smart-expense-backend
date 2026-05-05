@@ -1,9 +1,9 @@
-package com.Santhosh.expenseiq;
+package com.santhosh.expenseiq;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication(scanBasePackages = "com.Santhosh")
+@SpringBootApplication(scanBasePackages = "com.santhosh")
 public class ExpenseiqApplication {
 
     public static void main(String[] args) {
