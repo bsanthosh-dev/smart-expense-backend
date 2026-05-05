@@ -1,4 +1,4 @@
-package com.Santhosh.expenseiq.controller;
+package com.santhosh.expenseiq.controller;
 
 import com.Santhosh.expenseiq.dto.ExpenseDTO;
 import com.Santhosh.expenseiq.model.Expense;
