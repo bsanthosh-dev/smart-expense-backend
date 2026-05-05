@@ -1,4 +1,4 @@
-package com.Santhosh.expenseiq.model;
+package com.santhosh.expenseiq.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
