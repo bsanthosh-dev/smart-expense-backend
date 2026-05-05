@@ -1,8 +1,8 @@
 package com.santhosh.expenseiq.controller;
 
-import com.Santhosh.expenseiq.dto.ExpenseDTO;
-import com.Santhosh.expenseiq.model.Expense;
-import com.Santhosh.expenseiq.service.ExpenseService;
+import com.santhosh.expenseiq.dto.ExpenseDTO;
+import com.santhosh.expenseiq.model.Expense;
+import com.santhosh.expenseiq.service.ExpenseService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
