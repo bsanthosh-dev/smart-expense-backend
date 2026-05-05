@@ -1,6 +1,6 @@
-package com.Santhosh.expenseiq.repository;
+package com.santhosh.expenseiq.repository;
 
-import com.Santhosh.expenseiq.model.Expense;
+import com.santhosh.expenseiq.model.Expense;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
